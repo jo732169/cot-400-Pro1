@@ -1,0 +1,1 @@
+No third party libraries/plugins were used to write and compile this code.
